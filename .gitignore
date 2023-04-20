@@ -1,0 +1,8 @@
+.vscode
+*.txt
+maildata_*
+.DS_Store
+exp*
+in*
+out*
+mail.store
